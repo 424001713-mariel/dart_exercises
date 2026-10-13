@@ -1,0 +1,15 @@
+========================================
+   STUDENT ACADEMIC PERFORMANCE REPORT  
+========================================
+Student Name: Mariel Bernardino
+Completed Modules: 8
+Average Module Score: 92.5%
+Has Submitted All Tasks: true
+----------------------------------------
+Total Points Earned: 740
+Completed Weeks (2 modules/wk): 4
+Remaining Modules (Mod 3): 2
+----------------------------------------
+Eligible for Honors (>= 700 pts)? true
+Perfect Submission Status? true
+========================================
